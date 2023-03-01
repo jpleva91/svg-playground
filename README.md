@@ -1,4 +1,4 @@
-# svg-playground
+# Convert JPG to SVG and display in web page
 ### https://jpleva91.github.io/svg-playground/
 
 
