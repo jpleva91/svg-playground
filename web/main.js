@@ -10,7 +10,7 @@ svg.appendChild(circle);
 document.body.appendChild(svg);
 
 const xhr = new XMLHttpRequest();
-xhr.open("GET", "../img/drawing.svg");
+xhr.open("GET", "./drawing.svg");
 xhr.onload = function() {
   const svgString = xhr.responseText;
   const range = document.createRange();
