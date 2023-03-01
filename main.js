@@ -1,14 +1,3 @@
-const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
-circle.setAttribute("cx", "50");
-circle.setAttribute("cy", "50");
-circle.setAttribute("r", "20");
-circle.setAttribute("fill", "blue");
-
-svg.appendChild(circle);
-
-document.body.appendChild(svg);
-
 const xhr = new XMLHttpRequest();
 xhr.open("GET", "./drawing.svg");
 xhr.onload = function() {
