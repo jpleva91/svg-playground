@@ -20,7 +20,7 @@
 
 ### Click "OK" to apply the tracing and create a new vector-based copy of the image.
 
-Save the new vector-based image as an SVG file by selecting "File" > "Save As" from the menu and choosing "Scalable Vector Graphics" as the file type.
+### Save the new vector-based image as an SVG file by selecting "File" > "Save As" from the menu and choosing "Scalable Vector Graphics" as the file type.
 ![image](https://user-images.githubusercontent.com/17632264/222222316-bbcaec3d-4a7e-4629-96a4-dbe4228050c1.png)
 
 ## Break apart svg to create multiple svg paths
@@ -32,7 +32,7 @@ Save the new vector-based image as an SVG file by selecting "File" > "Save As" f
 
 ## Add custom attributes
 ![image](https://user-images.githubusercontent.com/17632264/222222697-fe02bb4c-135a-4edd-a420-8c2611e26bf9.png)
-Select the Object
+### Select the Object
 
 ### Select "Edit" > "XML Editor"
 
