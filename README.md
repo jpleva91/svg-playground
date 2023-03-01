@@ -28,6 +28,7 @@
 
 ### Select "Path" > "Break Apart"
 ![image](https://user-images.githubusercontent.com/17632264/222222488-ca91e018-2ac2-49b6-8277-2e707d0e4c68.png)
+### Select "Path" > "Union" to merge svgs that have been broken apart too much
 ![image](https://user-images.githubusercontent.com/17632264/222222568-04b49302-f137-40d1-8dd6-f1551233ef41.png)
 
 ## Add custom attributes
